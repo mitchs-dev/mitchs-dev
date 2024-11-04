@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mitch
 =============================================================================================================================
 
-Aspiring Hardware/Software Engineer
+Seasoned Hardware/Software Engineer
 -----------------------------------
 
 My journey started several years ago (2016) with learning to build my own PC, and picking up Python. I used this in various projects while working at a Data center to help me automate some things. This was also where I learned how awesome hardware is. From here, I started tinkering in virtualization and containerization. I picked up some Docker skills and from there leaned heavily into Kubernetes. I've spent the past few years doing A LOT of Kubernetes work from an application support-perspective. I also started working for CI/CD companies and worked heavily in projects, such as Jenkins. From here I branched into Cloud Security. I do still tinker around with hardware quite a bit. Lately I have been working on a few micro controller projects. (Lot's of fun here) Ultimately, what I've learned from all of these experiences is that: - GO is awesome (I would say this is my primary programming language that I use) - There is no "one" path when it comes to climbing the engineering ladder. - Do what you have a passion for.
