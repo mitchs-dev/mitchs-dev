@@ -32,10 +32,12 @@ My journey started several years ago (2016) with learning to build my own PC, an
 
 <a href="https://github.com/mitchs-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchs-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+### Buy Me a Coffee
 
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/mitch.dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<a href='https://ko-fi.com/A0A415O59L' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 </ul>
