@@ -19,7 +19,7 @@ My journey started several years ago (2016) with learning to build my own PC, an
 
 ### Blogs
 
-* <a href="https://ee.mitchs.dev" target="_blank" rel="noreferrer"><img src="https://ee.mitchs.dev/assets/images/favicon/logo.svg" width="30" alt="Engineering Expeditions" style="vertical-align: middle; margin-right: 5px;" />**[Engineering Expeditions](https://ee.mitchs.dev)**: A blog where I share my thoughts, experiences, as well as some of the projects I am working on
+* <a href="https://ee.mitchs.dev" target="_blank" rel="noreferrer"><img src="https://ee.mitchs.dev/assets/images/favicon/logo.png" width="30" alt="Engineering Expeditions" style="vertical-align: middle; margin-right: 5px;" />**[Engineering Expeditions](https://ee.mitchs.dev)**: A blog where I share my thoughts, experiences, as well as some of the projects I am working on
 
 
 ### Socials
