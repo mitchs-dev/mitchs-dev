@@ -1,14 +1,38 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mitch
 =============================================================================================================================
 
-Seasoned Hardware/Software Engineer
+The fixer
 -----------------------------------
 
-My journey started several years ago (2016) with learning to build my own PC, and picking up Python. I used this in various projects while working at a Data center to help me automate some things. This was also where I learned how awesome hardware is. From here, I started tinkering in virtualization and containerization. I picked up some Docker skills and from there leaned heavily into Kubernetes. I've spent the past few years doing A LOT of Kubernetes work from an application support-perspective. I also started working for CI/CD companies and worked heavily in projects, such as Jenkins. From here I branched into Cloud Security. I do still tinker around with hardware quite a bit. Lately I have been working on a few micro controller projects. (Lot's of fun here) Ultimately, what I've learned from all of these experiences is that: - GO is awesome (I would say this is my primary programming language that I use) - There is no "one" path when it comes to climbing the engineering ladder. - Do what you have a passion for.
+As "The Fixer," I thrive on tackling any technical challenge thrown my way. My journey spans from building PCs to mastering cloud technologies, always with a focus on finding innovative solutions.
+
+#### What is The Fixer?
+
+The Fixer is a versatile technologist who:
+- Solves complex problems across the entire tech stack
+- Adapts quickly to new technologies and challenges
+- Optimizes systems for peak performance
+
+#### My Tech Journey
+
+- Started with PC building and Python (2016)
+- Mastered virtualization, Docker, and Kubernetes
+- Excelled in DevOps, CI/CD, and Cloud Security
+
+#### Core Skills
+
+- Go (primary programming language)
+- Kubernetes and containerization
+- Cloud technologies and security
+- Hardware integration and optimization (Microcontrollers up to data centers)
+
+#### Philosophy
+
+"In tech, there's always a solution. My job is to find it, implement it, and make systems run smoother than ever."
 
 * 🌍  I'm based in Blue Ridge Mountains, USA
 * ✉️  You can contact me at [github@mitchs.dev](mailto:github@mitchs.dev)
-* 🤝  I'm open to collaborating on new projects and/or projects to contribute to
+* 🤝  I'm open to collaborating on any interesting projects!
 
 ### Skills
 
@@ -20,20 +44,6 @@ My journey started several years ago (2016) with learning to build my own PC, an
 ### Blogs
 
 * <a href="https://ee.mitchs.dev" target="_blank" rel="noreferrer"><img src="https://ee.mitchs.dev/assets/images/favicon/logo.png" width="30" alt="Engineering Expeditions" style="vertical-align: middle; margin-right: 5px;" />**[Engineering Expeditions](https://ee.mitchs.dev)**: A blog where I share my thoughts, experiences, as well as some of the projects I am working on
-
-
-### Socials
-
-<p align="left"><a href="https://www.github.com/mitchs-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mitchell-stanton" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mitchs-dev"><img src="https://github-readme-stats.vercel.app/api?username=mitchs-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mitchs-dev's GitHub stats" /></a>
-
-
-<a href="https://github.com/mitchs-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchs-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Buy Me a Coffee
 
